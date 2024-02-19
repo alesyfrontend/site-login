@@ -8,8 +8,8 @@ box-sizing: border-box;
 body{
     display: flex;
     justify-content:center;
-    background-image:url("./img/desktop.jpg");
     background-color:black;
+    background-image:url("./img/desktop.jpg");
     background-position:right bottom ;
    
 }
